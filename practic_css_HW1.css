@@ -1,0 +1,58 @@
+.links-header {
+	color: black;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(46, 47, 66, 1);
+	height: 60vh;
+	text-align: center;
+}
+
+.container-text {
+	display: flex;
+	color: rgba(255, 255, 255, 1);
+	flex-direction: column;
+	align-items: center;
+	font-family: Roboto;
+	font-size: 56px;
+	font-weight: 700;
+	line-height: 60px;
+	letter-spacing: 0.02em;
+	text-align: center;
+	width: 496px;
+	height: 120px;
+	top: 260px;
+	left: 472px;
+	gap: 0px;
+	opacity: 0px;
+}
+
+.order-button {
+	margin-top: 20px;
+	background-color: rgba(77, 90, 229, 1);
+	color: rgba(255, 255, 255, 1);
+	padding: 10px, 20px;
+	font-size: 16px;
+	cursor: pointer;
+	width: Hug (169px) px;
+	height: Hug (56px) px;
+	top: 428px;
+	left: 636px;
+	padding: 16px 32px 16px 32px;
+	gap: 10px;
+	border-radius: 4px 0px 0px 0px;
+	opacity: 0px;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+	letter-spacing: 0.04em;
+	text-align: left;
+}
+
+.order-button:hover {
+	background-color: rgba(77, 90, 229, 1);
+}
